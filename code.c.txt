@@ -3,8 +3,8 @@
 
 main()
 {
-   int a,b,c;
-  clrscr();
+   int a,b,c,d;
+   clrscr();
   a=10;
   b=30;
   c=a+b;
